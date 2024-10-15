@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Titan/static/js/main.7e4b4bd0.js",
+    "index.html": "/Titan/index.html",
+    "main.7e4b4bd0.js.map": "/Titan/static/js/main.7e4b4bd0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7e4b4bd0.js"
+  ]
+}
